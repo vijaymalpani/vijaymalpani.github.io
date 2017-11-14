@@ -64,10 +64,10 @@
         <h2 class="text-center">About</h2>
         <hr class="star-light">
         <div class="row">
-          <div class="col-lg-12 md-auto">
+          <div class="col-lg-4 ml-auto">
             <p style="text-align:center">THE WORD ON the lips of America's movie-going youth is "skadoosh," thanks to the new animated comedy "Kung Fu Panda." It's a sublimely silly word uttered by Po the Panda, as voiced by Jack Black, and Entertainment Weekly and The Washington Post have already anointed it "the word of the summer."</p>
           </div>
-          <div class="col-lg-12 mx-auto text-center">
+          <div class="col-lg-8 mx-auto text-center">
             <a href="#" class="btn btn-lg btn-outline">
               <i class="fa fa-download"></i>
               Download Theme
